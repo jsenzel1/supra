@@ -18,6 +18,7 @@ see [BOM](https://airtable.com/appK64nfCek7UE6Ky/shrHy2ZPqv2uyKhwK) for all part
 ## STEP 3
 
 order this [display](https://www.buydisplay.com/i2c-white-1-3-inch-oled-display-module-128x64-arduino-raspberry-pi) from buydisplay 
+note: fast shipping is extra but required for quick turnaround
 
 ## STEP 4 
 
