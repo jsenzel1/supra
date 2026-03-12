@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "sw_nav_5waySUPRA")(type "KiCad")(uri "${KIPRJMOD}/sw_nav_5waySUPRA.pretty")(options "")(descr ""))
+)
