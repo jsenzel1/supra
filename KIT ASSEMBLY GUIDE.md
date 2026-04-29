@@ -2,7 +2,7 @@ Aseembly Guide is coming!!! sorry for the delay
 
 I'll include some pictures of an assembled module for the time being - if you've built a few kits it should be pretty straightforward 
 
-The one big exception to this is the joystick! it's easy, but needs to be soldered a little weird. Instead of pushing it all the way throught he holes you want to line it up with the circuit board logo side down on a work surface/table, and stick it in, so that it hits the work surface (NOTE: ORIENTATION MATTERS, there is a dot on the circuit board, and a dot on one of the corners of the joystick. the joystick should be placed so that the dots line up with each other). then tack down one of the legs by soldering it on this side. Then flip the board over and solder all 6 legs correctly. 
+The one big exception to this is the joystick! it's easy, but needs to be soldered a little weird as the asymmetrical footprint has been reversed, so the pins are not correctly aligned. Instead of pushing it all the way through the holes you want to line it up with the circuit board logo side down on a work surface/table, and stick it in, so that it hits the work surface (NOTE: ORIENTATION MATTERS, there is a dot on the circuit board, and a dot on one of the corners of the joystick. the joystick should be placed so that the dots line up with each other). then tack down one of the legs by soldering it on this side. Then flip the board over and solder all 6 legs correctly. 
 ![IMG_3765 Large](https://github.com/user-attachments/assets/df24f981-ad2e-4017-888f-9ba60f16b020)
 ![IMG_3759 Large](https://github.com/user-attachments/assets/9b80c5be-75d1-41d0-8ebb-c3a1709453a7)
 
