@@ -1,5 +1,6 @@
 This is an ordering guide for SUPRA 
 right now for internal use - but might be useful for people to see how it works 
+note - if you need to order extra joysticks from adafruit its [this one](https://www.adafruit.com/product/504)
 
 ## STEP 1
 
