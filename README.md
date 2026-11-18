@@ -3,5 +3,5 @@
 
 is multimode Eurorack module with 4 different experiments in long term time. you can run up to 2 modes at once. use the 4 way joystick and buttons to interact with the modes on the oled
 
-<img  alt="1" src="https://github.com/user-attachments/assets/ef3df4bf-7902-4b46-86b9-7d00427691c9" />
-<img  alt="2" src="https://github.com/user-attachments/assets/7ee1f1db-234e-4d1b-aa25-20686d9f8dcb" />
+<img  width="300" alt="1" src="https://github.com/user-attachments/assets/ef3df4bf-7902-4b46-86b9-7d00427691c9" />
+<img  width="300" alt="2" src="https://github.com/user-attachments/assets/7ee1f1db-234e-4d1b-aa25-20686d9f8dcb" />
